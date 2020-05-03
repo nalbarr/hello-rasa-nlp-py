@@ -1,0 +1,34 @@
+[
+  {
+    "text": "ok",
+    "intent": "mood_ok",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.7903216481208801
+    }
+  },
+  {
+    "text": "OK",
+    "intent": "mood_ok",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.895183265209198
+    }
+  },
+  {
+    "text": "so so",
+    "intent": "mood_ok",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.9730089902877808
+    }
+  },
+  {
+    "text": "not good or bad",
+    "intent": "mood_ok",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.9563452005386353
+    }
+  }
+]
